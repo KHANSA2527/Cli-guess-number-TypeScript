@@ -35,5 +35,5 @@ async function game() {
   }
   console.log(`Game Over! The number was ${secretNumber}`);
 }
-
+ 
 game();
