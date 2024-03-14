@@ -1,0 +1,21 @@
+{
+  "name": "@khansakhalid/guess-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guessNum.js",
+  "bin": {
+    "guess-number":"guessNum.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
